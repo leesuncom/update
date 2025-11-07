@@ -268,5 +268,4 @@ echo "1. ${TARGET_DIR1}/smartdns/       （SmartDNS 配置）"
 echo "2. ${TARGET_DIR1}/dnscrypt-proxy2/ （dnscrypt-proxy 配置）"
 echo "3. ${TARGET_DIR1}/mosdns/         （mosdns 配置）"
 echo "4. ${TARGET_DIR2}/smartdns/       （SmartDNS 配置，同步副本）"
-
 echo "======================================"
