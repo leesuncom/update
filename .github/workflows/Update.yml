@@ -15,6 +15,7 @@ jobs:
 
       - name: Smartdns conf List
         run: |
+          sed -i 's/\r$//' script/updatew.sh
           bash script/updatew.sh
 
       - name: Push
