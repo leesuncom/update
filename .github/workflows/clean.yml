@@ -8,14 +8,15 @@ on:
 jobs:
   delete_runs:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write  
+      contents: read  
+    
     steps:
-      - name: Delete workflow runs
+      - name: Delete Workflow Runs Older Than 1 Day
         uses: Mattraks/delete-workflow-runs@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository: leesuncom/update  # 注意：该Action的仓库参数名为repository，不是repo
-          workflow_file_name: Update.yml,clean.yml  # 仅清理这两个工作流
-          branch: main  # 限定main分支
-          retain_days: 1  # 保留最近1天的记录（1天前的全部清理，对应原save_period）
-          keep_minimum_runs: 1  # 至少保留1条记录（对应原save_min_runs_number）
-          dry_run: true  # 试运行模式（对应原dry，参数名是dry_run）
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 1
+          keep_minimum_runs: 0 
