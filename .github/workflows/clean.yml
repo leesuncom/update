@@ -2,23 +2,20 @@ name: Clean Workflows
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: '15 9 */7 * *'
+
 jobs:
   delete_runs:
     runs-on: ubuntu-latest
     steps:
-    - name: Delete workflow runs
-      uses: Mattraks/delete-workflow-runs@v2
-      with:
-       token: ${{ secrets.GITHUB_TOKEN }}
-       repo: leesuncom/update
-       workflow_file_name: Update.yml,clean.yml
-       branch: main
-       run_conclusions: |
-          failure
-          timed_out
-       save_period: 1
-       save_min_runs_number: 1
-       dry: true
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: leesuncom/update  # 注意：该Action的仓库参数名为repository，不是repo
+          workflow_file_name: Update.yml,clean.yml  # 仅清理这两个工作流
+          branch: main  # 限定main分支
+          retain_days: 1  # 保留最近1天的记录（1天前的全部清理，对应原save_period）
+          keep_minimum_runs: 1  # 至少保留1条记录（对应原save_min_runs_number）
+          dry_run: true  # 试运行模式（对应原dry，参数名是dry_run）
