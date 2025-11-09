@@ -14,7 +14,7 @@ jobs:
       with:
        token: ${{ secrets.GITHUB_TOKEN }}
        repo: leesuncom/update
-       workflow_id: Update.yml,clean.yml
+       workflow_file_name: Update.yml,clean.yml
        branch: main
        run_conclusions: |
           failure
