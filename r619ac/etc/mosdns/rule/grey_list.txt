@@ -5,7 +5,6 @@ full:api.c99.ai
 full:api.dev.c99.ai
 full:api.stage.c99.ai
 full:api.channel99.com
-full:bbs.hostevaluate.com
 full:bbs.kfmax.com
 full:c.adventurerv.net
 full:c.mi.com
@@ -93,6 +92,7 @@ fanbox.cc
 filezillapro.com
 flhj.club
 freetls.fastly.net
+futuhk.com
 gal123.com
 global.ssl.fastly.net
 gmpg.org
