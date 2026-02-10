@@ -1818,7 +1818,6 @@
 126.fm
 126g.com
 126job.net
-126.link
 126.net
 126qiye.com
 1278721.com
@@ -2091,7 +2090,6 @@
 163hubei.com
 163hunan.com
 163img.com
-163industry.com
 163jiasu.com
 163kada.com
 163k.cc
@@ -28441,6 +28439,7 @@ ddcdn.com
 ddcheshi.com
 dd.ci
 ddcits.com
+ddcorp.net
 ddcsjw.com
 ddcwl.com
 dddazhe.com
@@ -28459,6 +28458,7 @@ ddedush.com
 d.design
 ddfans.com
 ddfchina.com
+ddfresh.net
 ddfzb.com
 ddgjjj.com
 ddguanhuai.com
@@ -28485,7 +28485,9 @@ ddky.com
 ddle.cc
 ddlequ.com
 dd.ma
+ddmaicai.net
 ddmap.com
+ddmc.mobi
 ddmer.com
 ddmogo.com
 ddnddn.com
@@ -52209,6 +52211,7 @@ imagineadtech.com
 imags-google.com
 imahui.com
 imaibo.net
+imaicai.mobi
 imaijia.com
 imaitu.com
 imalljoy.com
