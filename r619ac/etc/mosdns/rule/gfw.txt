@@ -975,6 +975,7 @@ dmc.nico
 dmcdn.net
 dmhy.org
 dmm.co.jp
+dns.cloudflare.com
 dns2go.com
 dnscrypt.org
 dnssec.net
@@ -1003,6 +1004,7 @@ douchi.space
 dougscripts.com
 doujincafe.com
 download.aircrack-ng.org
+download.dappcdn.com
 dpool.top
 dpp.org.tw
 dpr.info
@@ -1054,6 +1056,7 @@ ebook.hyread.com.tw
 ebtcbank.com
 ecfa.org.tw
 ecimg.tw
+economist.com
 edgecastcdn.net
 edubridge.com
 edx-cdn.org
@@ -1560,6 +1563,7 @@ google.com.vn
 google.cv
 google.cz
 google.de
+google.dev
 google.dj
 google.dk
 google.dm
@@ -1975,6 +1979,7 @@ internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
 investigating.wordpress.com
+investing.com
 invidio.us
 inxian.com
 ipdefenseforum.com
@@ -4140,7 +4145,6 @@ z-library.ec
 z-library.sk
 zalmos.com
 zamimg.com
-zaobao.com.sg
 zaochenbao.com
 zattoo.com
 zb.com
