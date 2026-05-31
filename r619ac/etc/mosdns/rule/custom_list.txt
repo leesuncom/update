@@ -16,6 +16,8 @@ apnic.net
 armorgames.com
 audio.com
 bangumi.moe
+bangumi.tv
+bgm.tv
 bi39.cc
 bigrain.me
 bitgravity.com
@@ -35,6 +37,7 @@ caddyserver.com
 carousell.com.hk
 celer.network
 ch-werner.de
+chii.in
 chinaaction.org
 churchofjesuschrist.org
 cia.gov
@@ -53,7 +56,6 @@ cults3d.com
 cxense.com
 dala8.xyz
 dextools.io
-dgithub.xyz
 docker.com
 docker.io
 dns.sb
@@ -165,6 +167,7 @@ rakuten.jp
 rentry.co
 rssing.com
 saasexch.cc
+safetrade.com
 scribdassets.com
 simplex.chat
 sina.com.hk
@@ -280,6 +283,8 @@ regexp:^(.+\.)?singlelogin\.\w+$
 regexp:^(.+\.)?tagss\d*\.pro$
 regexp:^(.+\.)?webbooksnow\\w+$
 regexp:^(.+\.)?z?-?lib(rary)?\.\w+$
+
+regexp:^(.+\.)?[a-z]github\.xyz$
 
 regexp:^.*api\.ask\.fm$
 regexp:^.*b\.hatena\.ne\.jp$
