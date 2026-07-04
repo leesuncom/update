@@ -396,6 +396,7 @@ ads.bid
 ads.bigfoot.com
 ads.bittorrent.com
 ads-bi.zenkube.com
+ads.bizwd.net
 ads.blog.com
 ads.bluemountain.com
 ads.boylesports.com
@@ -672,6 +673,7 @@ adsynergy.com
 adsystem.simplemachines.org
 adsys.townnews.com
 ads.zorvec.top
+adtarget.org
 ad-tech.com
 adtech.com
 adtech.de
@@ -1453,7 +1455,6 @@ c.bigmir.net
 cbmall.com
 cb.snoozyhayride.com
 cbx.net
-cc-api-data.adobe.io
 c.cdn-server.top
 ccjzuavqrh.com
 cc.swiftype.com
@@ -1643,7 +1644,6 @@ cointraffic.io
 coinzillatag.com
 cokieshins.com
 collect.analyse.lnearn.com
-collector.githubapp.com
 collector.leaddyno.com
 collector.megaxh.com
 collector.pi.spectrum.net
@@ -1768,6 +1768,7 @@ crtv.mate1.com
 crudenessfinishersacred.com
 crummydevioussucculent.com
 crumpetprankerstench.com
+cruncherpatiencestoreroom.com
 crunchybears.com
 cruzswim.org
 csdian.net
@@ -2061,6 +2062,7 @@ ea.youmaker.com
 e-bannerx.com
 ebayadvertising.com
 ebetoni.com
+eb.koaeunhairy.shop
 ebxcdn.com
 ec.ballyaxche.cfd
 ecircle-ag.com
@@ -2196,6 +2198,7 @@ extracthorizontaldashing.com
 extreme-dm.com
 extremetracking.com
 ey43.com
+eycfdxhanqord.site
 eyebrowscrambledlater.com
 eyereturn.com
 eyeviewads.com
@@ -2697,6 +2700,9 @@ in.treasuredata.com
 intrudefatherinlaw.com
 inuvi.com
 invitejs.trustpilot.com
+invle.co
+invl.me
+invl.us
 invoca.net
 invol.co
 iodideeyebath.cam
@@ -2816,6 +2822,7 @@ kissmetrics.com
 kitbit.net
 kiynew.com
 kjdvn1340-ads.blogspot.com
+kkdeldurlxjjcz.com
 klangoo.com
 klclick1.com
 klik.blog
@@ -2844,12 +2851,12 @@ kts.visitstats.com
 ktu.sv2.biz
 ku2d3a7pa8mdi.com
 ku42hjr2e.com
-kueezrtb.com
 kuno-gae.com
 kupona.de
 kuqfudazkn.com
 kvkaa.com
 kw3y5otoeuniv7e9rsi.com
+kx.upturnsidoist.cyou
 kykay.com
 kzuocxorfo.com
 laceassumestatic.com
@@ -2868,6 +2875,7 @@ layer-ads.de
 lbn.ru
 lby2kd27c.com
 lcs.loginfra.com
+ldjsypolwypxy.space
 leadclick.com
 leadplace.fr
 leadzu.com
@@ -4089,6 +4097,7 @@ rum.uptime.com
 runads.com
 rusenov.com
 ru-traffic.com
+rutseasickmunch.com
 ruvsraaklrih.com
 ruwjkygaxo.com
 rvrpushserv.com
@@ -4582,6 +4591,7 @@ tenthsfrumpy.com
 terra8nb.com
 terriblethumb.com
 testingmetriksbre.ru
+tevitpcfav.com
 textads.biz
 text-link-ads.com
 textlinks.com
@@ -5346,6 +5356,7 @@ zikroarg.com
 zimpolo.com
 zipazvzu.com
 zireemilsoude.net
+zjdpabwmeb.com
 zkyrzoqc.com
 zlp6s.pw
 zm232.com
@@ -5353,6 +5364,7 @@ zogfwunf.com
 zonedummy.com
 zovidree.com
 ztumuvofzbfe.com
+zuchhsparxodc.site
 zucoagorsout.com
 zuieggzsdlo.com
 zumdivdwug.com
