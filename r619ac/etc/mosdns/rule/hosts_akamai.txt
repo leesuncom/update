@@ -60,7 +60,7 @@ res-1.public.onecdn.static.microsoft 184.29.20.115
 res-1.public.onecdn.static.microsoft.edgekey.net 184.29.20.115
 regexp:^e2808\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 184.29.20.115
 
-e2897.ca.s.tl88.net 36.156.84.146
+# e2897.ca.s.tl88.net 36.156.84.146
 regexp:^e2897\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.221.100.27 2600:1406:5400:2b0::b51
 
 account.g2a.com 104.89.231.55
@@ -359,7 +359,18 @@ sfdataservice-legacy-staging.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice-legacy.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice-staging.microsoft.com.edgekey.net 23.61.214.101
 sfdataservice.microsoft.com.edgekey.net 23.61.214.101
-e16646.ca.s.tl88.net 223.111.98.83
+storeedgefd-ppe.dsx.mp.microsoft.com 23.61.214.101
+storeedgefdsecureorigin.dsx.mp.microsoft.com 23.61.214.101
+cdn.storeedgefd.dsx.mp.microsoft.com 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com 23.61.214.101
+storeedgefd-ppe.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefdsecureorigin.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com.akadns.net 23.61.214.101
+storeedgefd-ppe.xbetservices.akadns.net 23.61.214.101
+storeedgefd.xbetservices.akadns.net 23.61.214.101
+storeedgefd-ppe.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+storeedgefd.dsx.mp.microsoft.com.edgekey.net 23.61.214.101
+# e16646.ca.s.tl88.net 23.61.214.101
 regexp:^e16646\.((dsc)?[a-z]|dsp[a-x])\.akamaiedge\.net$ 23.61.214.101
 
 s2-sni.cloudinary.com.edgekey.net 23.199.57.80
