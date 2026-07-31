@@ -74,6 +74,7 @@ ext-twitch.tv
 extrabux.com
 f-droid.org
 fanbox.cc
+fanqiang.info
 faphouse4k.com
 faphouse.com
 flexpool.io
@@ -128,6 +129,7 @@ meta.com
 mexc.com
 mikanani.me
 miobt.com
+models.dev
 moengage.com
 mouser.tw
 musixmatch.com
@@ -190,6 +192,7 @@ storj.io
 sublimetext.com
 sushiswapclassic.org
 swag.live
+tdm.com.mo
 techbang.com
 telemetr.io
 telghub.com
