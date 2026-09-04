@@ -14,6 +14,7 @@ aol.com
 aomedia.org
 apnic.net
 armorgames.com
+asterdex.com
 audio.com
 bangumi.moe
 bangumi.tv
@@ -24,6 +25,7 @@ biggo.com.tw
 bigrain.me
 bitgravity.com
 bitsearch.to
+blockchain.com
 bnbstatic.com
 bntrace.com
 book4you.org
@@ -117,6 +119,7 @@ kgithub.com
 lemmy.ml
 liftoff.io
 liquidsky.com
+lista.org
 looks.wang
 looksrare.org
 manhuagui.com
@@ -226,6 +229,7 @@ v2ph.com
 vuze.com
 walletconnect.com
 wa.me
+web3modal.com
 wikiquote.org
 winandmac.com
 wixsite.com
@@ -243,6 +247,7 @@ api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 api.ipify.org
 api.jsonsilo.com
 api.unisvg.com
+full:app.hyperliquid.xyz
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
