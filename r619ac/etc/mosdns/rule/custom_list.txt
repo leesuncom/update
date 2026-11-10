@@ -26,6 +26,7 @@ bigrain.me
 bitgravity.com
 bitsearch.to
 blockchain.com
+blockscout.com
 bnbstatic.com
 bntrace.com
 book4you.org
@@ -67,6 +68,7 @@ defillama.com
 denpasoft.com
 dexscreener.com
 dextools.io
+digg.com
 docker.com
 docker.io
 dns.sb
@@ -121,6 +123,7 @@ jup.ag
 jwplayer.com
 kakaocdn.net
 kgithub.com
+leicarumors.com
 lemmy.ml
 liftoff.io
 lighter.xyz
@@ -195,6 +198,7 @@ safetrade.com
 sc-cdn.net
 scribdassets.com
 search-sharp.com
+shapeshift.com
 simplex.chat
 sina.com.hk
 singtao.ca
@@ -206,6 +210,7 @@ softonic.cn
 soundon.fm
 ssrtool.us
 starlark.net
+stellar.org
 stheadline.com
 storj.io
 sublimetext.com
@@ -239,6 +244,7 @@ uniswap.org
 unwire.hk
 uscardforum.com
 uscnpm.com
+usdc.com
 v2ph.com
 vuze.com
 walletconnect.com
@@ -313,6 +319,7 @@ regexp:^(.+\.)?bybit\.[a-zA-Z]+$
 regexp:^(.+\.)?htx\.[a-zA-Z]+$
 regexp:^(.+\.)?htx\.(com|net|org)\.[a-zA-Z]+$
 regexp:^(.+\.)?huobi\.[a-zA-Z]+$
+regexp:^(.+\.)?huobi\.(com|net|org)\.[a-zA-Z]+$
 regexp:^(.+\.)?libsolutions\.[a-zA-Z]+$
 regexp:^(.+\.)?mokexapp\.[a-zA-Z]+$
 regexp:^(.+\.)?nexitally\.[a-zA-Z]+$
