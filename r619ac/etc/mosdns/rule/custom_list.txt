@@ -1,4 +1,5 @@
 # Custom list (for DNS)
+1inch.io
 1login.to
 1point3acres.com
 28hse.com
@@ -8,6 +9,7 @@ acg.rip
 aelitis.com
 ahaspeed.com
 alphafish.top
+alphawallet.com
 androidfilehost.com
 androidpolice.com
 aol.com
@@ -15,6 +17,7 @@ aomedia.org
 apnic.net
 armorgames.com
 asterdex.com
+atomicwallet.io
 audio.com
 bangumi.moe
 bangumi.tv
@@ -24,6 +27,7 @@ biggo.com
 biggo.com.tw
 bigrain.me
 bitgravity.com
+bitpay.com
 bitsearch.to
 blockchain.com
 blockscout.com
@@ -56,6 +60,7 @@ coinpaprika.com
 coinpedia.org
 coinsquare.io
 collider.com
+confluxnetwork.org
 conta.cc
 cospuri.com
 coti.io
@@ -125,6 +130,7 @@ jup.ag
 jwplayer.com
 kakaocdn.net
 kgithub.com
+kyberswap.com
 leicarumors.com
 lemmy.ml
 liftoff.io
@@ -264,6 +270,7 @@ xfsub.org
 xvideos.red
 yodobashi.com
 zenmarket.jp
+zerion.io
 
 anond.hatelabo.jp
 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
@@ -274,9 +281,11 @@ full:app.hyperliquid.xyz
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
+db62cod6cnasq.cloudfront.net
 dmhy.anoneko.com
 en.softonic.com
 gamefaqs.gamespot.com
+gateway.irys.xyz
 images.prismic.io
 json2.dcinside.com
 nexus-websocket-a.intercom.io
@@ -286,14 +295,17 @@ full:pixel.onead.com.tw
 rawcdn.githack.com
 full:s3.ap-south-1.amazonaws.com
 s1.bycsi.com
+safe-client.safe.global
 sbti.unun.dev
 server.shop.app
 shared-data.dowjones.io
 shopify-assets.shopifycdn.com
 full:s.last.fm
+trk.storyly.io
 valid.x86.fr
 full:vip1.g5.cachefly.net
 full:www.adsensecustomsearchads.com
+full:www.tradingview-widget.com
 
 full:vip.flynet.club
 full:web.flynet.club
