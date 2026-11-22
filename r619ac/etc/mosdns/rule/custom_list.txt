@@ -115,6 +115,7 @@ herokuapp.com
 honnef.co
 hostloc.net
 hostmonit.com
+hyperbot.network
 i-cable.com
 ifdesign.com
 imagedelivery.net
@@ -147,6 +148,7 @@ mdex.com
 mercari.com
 mercari.jp
 merlinblog.xyz
+messari.io
 meta.ai
 meta.com
 mexc.com
@@ -176,6 +178,7 @@ onkakao.net
 onlyfans.com
 openairinterface.org
 openmaptiles.org
+orca.so
 osl.com
 ourdream.ai
 outlookindia.com
@@ -278,6 +281,7 @@ api.ipify.org
 api.jsonsilo.com
 api.unisvg.com
 full:app.hyperliquid.xyz
+full:app.hyperswap.exchange
 a.basemaps.cartocdn.com
 bbs.hostevaluate.com
 d.hatena.ne.jp
