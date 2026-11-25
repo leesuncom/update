@@ -110,6 +110,7 @@ go-vpn.com
 googlepages.com
 greasyfork.org
 gunosy.com
+headtopics.com
 hentaienvy.com
 herokuapp.com
 honnef.co
@@ -131,6 +132,7 @@ jup.ag
 jwplayer.com
 kakaocdn.net
 kgithub.com
+klcc.org
 kyberswap.com
 leicarumors.com
 lemmy.ml
@@ -140,6 +142,7 @@ liquidsky.com
 lista.org
 looks.wang
 looksrare.org
+malwarwickonbooks.com
 manhuagui.com
 mathgptpro.com
 mcdex.io
@@ -266,6 +269,7 @@ wikiquote.org
 winandmac.com
 wixsite.com
 wxw.cat
+wyomingpublicmedia.org
 x.me
 xinmeitulu.com
 xfastest.com
